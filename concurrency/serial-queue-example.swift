@@ -17,7 +17,7 @@ serialQueue.async {
     print("Task 2 ended.")
 }
 
-// Expected Output (order may vary):
+// Expected Output
 // Task 1 started.
 // Task 1 ended.
 // Task 2 started.
